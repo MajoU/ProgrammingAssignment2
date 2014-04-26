@@ -30,5 +30,4 @@ cacheSolve <- function(x, ...) {
     x$set_inv_mat(inv_mat) # cache inverse matrix through set_inv_mat
     # function
     inv_mat  # return inverse matrix
-    inv_mat # return inverse matrix 
 }
